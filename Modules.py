@@ -9,6 +9,8 @@
 # Yours could very well be different! Cheers!           #
 #########################################################
 
+# For additional help see:
+# https://pythonhosted.org/SpacePy/pycdf.html#read-a-cdf
 
 import os
 os.environ["CDF_LIB"] = "c:/CDF_Distribution/cdf37_0-dist"

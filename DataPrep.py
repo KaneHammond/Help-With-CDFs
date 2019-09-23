@@ -145,7 +145,7 @@ YearE = '1985'
 MonthE = '6'
 
 # Define single date, all the data we have appears to start on the first of each 
-# month, so we insert a 1. the 0s are most time variables which are set to zero.
+# month, so we insert a 1. the 0s are most likely time variables which are set to zero.
 # We will convert our dates from the same format as the dataset ( :
 # I am assuming the final zeros we see in the datasets are hours and minutes,
 # so I include those in our date conversion below.

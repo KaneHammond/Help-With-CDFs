@@ -15,6 +15,6 @@ in python. Otherwise, you may be able to extract the rest of that data into a si
 .csv file and import it to ArcMap. Just keep an eye our for a coordinate reference
 system.
 
-
+# NOTE: There is a copy of the .cdf file in case the other gets corrupted!
 
 
